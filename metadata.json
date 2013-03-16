@@ -1,3 +1,5 @@
 {
-	"name":"Example"
+	"name":"Example",
+	"screenshot":"screenshot.png",
+	"thumbnail":"thumbnail.png"
 }
