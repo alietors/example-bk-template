@@ -1,5 +1,7 @@
 {
 	"name":"Example",
 	"screenshot":"screenshot.png",
-	"thumbnail":"thumbnail.png"
+	"thumbnail":"thumbnail.png",
+	"defaultColorSwatch":"foo",
+	"defaultFontSwatch":"bar"
 }
