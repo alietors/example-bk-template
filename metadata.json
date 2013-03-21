@@ -3,5 +3,6 @@
 	"screenshot":"/screenshot.jpg",
 	"thumbnail":"/screenshot.jpg",
 	"defaultColorSwatch":"foo",
-	"defaultFontSwatch":"bar"
+	"defaultFontSwatch":"bar",
+	"pageTypes":[]
 }
