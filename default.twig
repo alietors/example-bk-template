@@ -1,1 +1,12 @@
-<h1>Test</h1>
+{% extends "layout.twig" %}
+
+{% block content %}
+<header>
+<h1>Ade's Template</h1>
+</header>
+
+{{zone('main')|raw}}
+
+<footer>
+</footer>
+{% endblock %}
