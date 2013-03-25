@@ -1,7 +1,7 @@
 {
 	"name":"Example",
-	"screenshot":"/screenshot.jpg",
-	"thumbnail":"/screenshot.jpg",
+	"screenshot":"screenshot.jpg",
+	"thumbnail":"screenshot.jpg",
 	"defaultColorSwatch":"foo",
 	"defaultFontSwatch":"bar",
 	"pageTypes":[]
