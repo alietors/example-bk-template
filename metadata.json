@@ -2,6 +2,7 @@
 	"name":"Example template",
 	"screenshot":"screenshot.jpg",
 	"thumbnail":"screenshot.jpg",
+    "pageTypes":["foo","bar"],
     "colorSwatches":
     {
         "Swatch 1": {
