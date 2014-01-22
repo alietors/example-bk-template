@@ -102,5 +102,8 @@
             "color": "@color-swatch1",
             "letter-spacing": "5px"
         }
-    }
+    },
+    "images":[
+        "mario.jpg"
+    ]
 }
