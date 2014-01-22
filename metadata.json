@@ -104,6 +104,7 @@
         }
     },
     "images":[
-        "mario.jpg"
+        "mario.jpg",
+        "luigi.jpg"
     ]
 }
